@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a Front end Developer at Insolite.<br>Some Technologies that I use are: HTML, CSS, JavaScript, <br>TypeScript, NodeJs, React, Next.
+I am currently working as a Front-End Developer at Insolite.<br>Some Technologies that I use are: HTML, CSS, JavaScript, <br>TypeScript, NodeJs, React, Next.
 
 
 # 💻 Tech Stack:
